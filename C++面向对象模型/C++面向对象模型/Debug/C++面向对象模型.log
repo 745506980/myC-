@@ -1,0 +1,5 @@
+﻿  Mystring.cpp
+D:\vis_coure\C++面向对象模型\C++面向对象模型\Mystring.cpp(124,14): warning C4018: “>”: 有符号/无符号不匹配
+D:\vis_coure\C++面向对象模型\C++面向对象模型\Mystring.cpp(129,14): warning C4018: “<”: 有符号/无符号不匹配
+D:\vis_coure\C++面向对象模型\C++面向对象模型\Mystring.cpp(148): warning C4715: “MyString::operator[]”: 不是所有的控件路径都返回值
+  C++面向对象模型.vcxproj -> D:\vis_coure\C++面向对象模型\Debug\C++面向对象模型.exe
